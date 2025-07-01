@@ -1,4 +1,5 @@
-<img width="483" alt="sentiment_image" src="https://github.com/user-attachments/assets/01f33c89-6cbb-4b39-acca-909ac7375db8" />
+<img width="482" alt="sentiment_image" src="https://github.com/user-attachments/assets/bb07dd19-0756-45d5-b4b0-2f17c4ff41d3" />
+
 
 
 # 🧠 Medical Twitter Sentiment Analysis During COVID-19
